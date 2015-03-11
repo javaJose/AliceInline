@@ -1,0 +1,21 @@
+body {background-color:lightgray}
+#ch1 {
+    background-color: blue;
+    margin: 0 auto;
+    width: 50%;
+}
+#ch2 {
+    background-color: orangered;
+    margin: 0 auto;
+    width: 50%;
+}
+#ch3{
+    background-color: greenyellow;
+    margin: 0 auto;
+    width: 50%;
+}
+#ch4{
+    background-color: aquamarine;
+    margin: 0 auto;
+    width: 50%;
+}
